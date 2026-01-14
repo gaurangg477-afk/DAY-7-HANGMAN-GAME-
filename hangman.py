@@ -82,4 +82,4 @@ while lives>0:
         break
     if lives==0:
         print(f"you lost! the correct word was {chosen_word}.")
-        break
+        
